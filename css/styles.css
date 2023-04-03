@@ -23,3 +23,7 @@ h2 {
 h3 {
     color: #301E67;
 }
+
+hr:hover {
+    background-color: #AA77FF;
+}
